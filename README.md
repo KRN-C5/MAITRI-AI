@@ -2,13 +2,9 @@
 
 ### AI-Powered Astronaut Companion | Space Mission Assistance | Human Well-being
 
-\<p align="center">
-&#x20; \<b>Exploring the future of human-AI interaction in space exploration.\</b>
-\</p>
+Exploring the future of human-AI interaction in space exploration
 
-\<p align="center">
-&#x20; \<a href="[https://www.youtube.com/watch?v=6490AHIMSM0](https://www.youtube.com/watch?v=6490AHIMSM0)">▶ Watch Project Demo\</a>
-\</p>
+[https://www.youtube.com/watch?v=6490AHIMSM0]
 
 ---
 
@@ -465,9 +461,3 @@ The current prototype is only an early step towards that vision.
 **We are not building just another chatbot. We are exploring what a personal AI companion could become in the future of human space exploration.**
 
 ---
-
-\<p align="center">
-&#x20; \<b>MAITRI AI\</b>\<br>
-&#x20; \<i>Intelligence for the journey. Companionship beyond Earth.\</i>\<br>\<br>
-&#x20; 🚀 \<b>Prototype Under Active Development\</b>
-\</p>
