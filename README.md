@@ -393,18 +393,7 @@ These are future research possibilities, not currently validated capabilities.
 # 🎥 13. Project Demonstration
 
 See the current prototype and its development demonstration:
-
-\<p align="center">
-&#x20; \<a href="[https://www.youtube.com/watch?v=6490AHIMSM0](https://www.youtube.com/watch?v=6490AHIMSM0)">
-&#x20;   \<img src="[https://img.youtube.com/vi/6490AHIMSM0/maxresdefault.jpg](https://img.youtube.com/vi/6490AHIMSM0/maxresdefault.jpg)" alt="MAITRI AI Project Demonstration" width="800">
-&#x20; \</a>
-\</p>
-
-\<p align="center">
-&#x20; \<b>▶ Watch MAITRI AI in Action\</b>\<br>
-&#x20; \<a href="[https://www.youtube.com/watch?v=6490AHIMSM0](https://www.youtube.com/watch?v=6490AHIMSM0)">YouTube Project Demonstration\</a>
-\</p>
-
+https://www.youtube.com/watch?v=6490AHIMSM0
 *The demonstration showcases the prototype and should not be interpreted as a demonstration of a completed astronaut-ready system.*
 
 # 🏆 14. Project Recognition
